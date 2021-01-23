@@ -33,4 +33,8 @@ Sr. Engineering manager at Mozilla :fox_face:
 
 #### Also I have a blog
 
-- Watch this out [<img src="https://img.icons8.com/color/48/000000/web.png" width="5%"/>](https://stefan.arentz.ca)
+- Watch this out [<img src="https://img.icons8.com/color/48/000000/web.png" width="2.5%"/>](https://stefan.arentz.ca)
+
+---
+
+Developed with :heart: by **[Amirhossein Mohammadi](https://github.com/BlackIQ)** for **Stefan** .
