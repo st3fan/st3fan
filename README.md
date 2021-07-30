@@ -10,7 +10,7 @@
 ### 😎 Some fun side projects that I've worked on over the years ...
 
 - 🍎 I worked on an 6502 Emulator called the [Emulated Woz Machine (EWM)](https://github.com/st3fan/ewm) that can run Apple I and Apple II+ software like Frogger, Hard Hat Mack, Jaw Breaker and Burger Time. I wrote a [series of blog posts](https://stefan.arentz.ca/posts/) about it's development. (Plain Old C)
-- 📺 I wrote a ["Sad Mac" screen saver](https://stefan.arentz.ca/posts/2018-09-21-sadmac/) for macOS to bring back some nostalgia. Technically not impressive but a lot of fun to look at. (Swift)
+- 📺 I wrote a ["Sad Mac" screen saver](https://stefan.arentz.ca/posts/2018-09-21-sadmac/) for macOS to bring back some nostalgia. Technically not impressive but a lot of fun to look at. (Objective-C)
 - ⌚️ I shipped [AstroNote](https://astronote.app), a tiny WatchOS app with a REST API to send notifications to your wrist. (Swift, Go)
 
 > Most of my professional and personal work is Open Source. You can find many personal projects here at [github.com/st3fan](https://github.com/st3fan) - feel free to leave a bug report or open a feature request 🙏 🐞
