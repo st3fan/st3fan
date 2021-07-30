@@ -4,7 +4,7 @@
 - 🤫 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's development and also managed the team. After a short break, this product is now being modernized by my team. I try to make technical contributions.
 - 📦 I built, managed and grew the [Mozilla Android Components](https://github.com/mozilla-mobile/android-components) team, responsible for building a rock solid foundation for our Android Browsers, including [Firefox for Android (Fenix)](https://github.com/mozilla-mobile/fenix) and [Focus for Android](https://github.com/mozilla-mobile/focus-android).
 
-> None of these projects would be a success without the contributions of my team members, colleagues and contributors who have put in countless hours and insane amounts of energy 🦊 ❤️
+> None of these projects would be a success without the contributions from team members, colleagues and contributors who have put in countless hours and insane amounts of energy 🦊 ❤️
 
 ### 😎 Some fun side projects that I've worked on over the years ...
 
@@ -12,4 +12,4 @@
 - 📺 I wrote a ["Sad Mac" screen saver](https://stefan.arentz.ca/posts/2018-09-21-sadmac/) for macOS to bring back some nostalgia. Technically not impressive but a lot of fun to look at.
 - ⌚️ I shipped [AstroNote](https://astronote.app), a tiny WatchOS app with a REST API to send notifications to your wrist.
 
-> Most of my professional and personal work is Open Source. You can find many projects here at [github.com/st3fan](https://github.com/st3fan) - feel free to leave a bug report or open a feature request 🙏
+> Most of my professional and personal work is Open Source. You can find many personal projects here at [github.com/st3fan](https://github.com/st3fan) - feel free to leave a bug report or open a feature request 🙏 🐞
