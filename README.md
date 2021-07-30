@@ -1,4 +1,4 @@
-### 🦊 Some Mozilla projects I am very proud of ...
+### 🦊 Some Mozilla projects I am proud to be part of ...
 
 - 🔥 I am a founding team member of [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) and later managed the team. We worked on many releases of this great browser for your iPhone and iPad. You can download it on the [App Store](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926).
 - 🤫 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's development and also managed the team. After a short break, this product is now being modernized by my team. I try to make technical contributions.
@@ -6,7 +6,7 @@
 
 > None of these projects would be a success without the contributions of my team members, colleagues and contributors who have put in countless hours and insane amounts of energy 🦊 ❤️
 
-### 😎 Some fun side projects ...
+### 😎 Some fun side projects that I've worked on over the years ...
 
 - 🍎 I worked on an 6502 Emulator called the [Emulated Woz Machine (EWM)](https://github.com/st3fan/ewm) that can run Apple I and Apple II+ software like Frogger, Hard Hat Mack, Jaw Breaker and Burger Time. I wrote a [series of blog posts](https://stefan.arentz.ca/posts/) about it's development.
 - 📺 I wrote a ["Sad Mac" screen saver](https://stefan.arentz.ca/posts/2018-09-21-sadmac/) for macOS to bring back some nostalgia. Technically not impressive but a lot of fun to look at.
