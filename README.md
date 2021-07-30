@@ -1,8 +1,8 @@
 ### 🦊 Some Mozilla projects I am very proud of ...
 
-- 🔭 I am a founding team member of [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) and later managed the team. We worked on many releases of this great browser for your iPhone and iPad. You can download it on the [App Store](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926).
-- 🌱 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's development and also managed the team. After a short break, this product is now being modernized by my team and I try to make technical contributions.
-- 👯 I built, managed and grew the [Mozilla Android Components](https://github.com/mozilla-mobile/android-components) team, responsible for building a rock solid foundation for our Android Browsers, including [Firefox for Android (Fenix)](https://github.com/mozilla-mobile/fenix) and [Focus for Android](https://github.com/mozilla-mobile/focus-android).
+- 🔥 I am a founding team member of [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) and later managed the team. We worked on many releases of this great browser for your iPhone and iPad. You can download it on the [App Store](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926).
+- 🤫 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's development and also managed the team. After a short break, this product is now being modernized by my team and I try to make technical contributions.
+- 📦 I built, managed and grew the [Mozilla Android Components](https://github.com/mozilla-mobile/android-components) team, responsible for building a rock solid foundation for our Android Browsers, including [Firefox for Android (Fenix)](https://github.com/mozilla-mobile/fenix) and [Focus for Android](https://github.com/mozilla-mobile/focus-android).
 
 > None of these projects would be a success without the contributions of my team members, colleagues and contributors who have put in countless hours and insane amounts of energy 🦊 ❤️
 
