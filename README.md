@@ -1,7 +1,7 @@
 ### 🦊 Some Mozilla projects I am proud to be part of ...
 
 - 🔥 I am a founding team member of [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) and later managed the team. I helped to ship many releases of this great browser for your iPhone and iPad. You can download it on the [App Store](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926).
-- 🤫 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's initial development and also managed the team. After a short break, the iOS version is now being modernized by my team.
+- 🤫 I came up with the idea for [Firefox Focus for iOS](https://github.com/mozilla-mobile/focus-ios). I contributed to it's initial development and also managed the team. After a short break, Focus for both iOS and Android is back in active development.
 - 📦 I built, managed and grew the [Mozilla Android Components](https://github.com/mozilla-mobile/android-components) team, responsible for building a rock solid foundation for our Android Browsers, including [Firefox for Android (Fenix)](https://github.com/mozilla-mobile/fenix) and [Focus for Android](https://github.com/mozilla-mobile/focus-android).
 - 🎂 I managed the team that shipped [Fenix 1.0](https://blog.mozilla.org/futurereleases/2019/06/27/reinventing-firefox-for-android-a-preview/), a full rewrite of Firefox for Android. The [1.0 release was tagged](https://github.com/mozilla-mobile/fenix/releases/tag/v1.0.0) and celebrated on the last day of our all-hands meeting in Whistler, July 2019 🐻🥂 That was a very proud moment after a [mountain of work](https://github.com/mozilla-mobile/fenix/compare/v0.1...v1.0.0) 🏔
 
